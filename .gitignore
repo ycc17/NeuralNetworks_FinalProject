@@ -1,0 +1,16 @@
+@"
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.csv
+data/
+plot/
+complexity/
+main_code.py
+dataset_gen.py
+inference_model_mlp/
+test_kaggle.py
+test_kaggle2.py
+test3.py
+"@ | Out-File -FilePath .gitignore -Encoding utf8
