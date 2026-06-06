@@ -53,7 +53,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn ptflops prettytable
 資料檔因體積或來源限制未包含於本 repo，請自行下載後放入對應資料夾：
 
 - **訓練資料（ns-3 模擬）**：取自原作者 AI-ERA repo，放入 `./data/`
-- **跨資料集（Antwerp）**：公開 LoRaWAN benchmark（130,423 筆，含真實 SF 標籤）https://www.kaggle.com/datasets/goapgo/lorawan-antwerp-2019-dataset-csv，下載後將 `antwerp_dataset.csv` 放入專案根目錄
+- **跨資料集（Antwerp）**：公開 LoRaWAN benchmark（130,423 筆，含真實 SF 標籤）(https://www.kaggle.com/datasets/goapgo/lorawan-antwerp-2019-dataset-csv)，下載後將 `antwerp_dataset.csv` 放入專案根目錄
 
 ---
 
